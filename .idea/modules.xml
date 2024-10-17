@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/homeserviceapplication/homeserviceapplication.iml" filepath="$PROJECT_DIR$/homeserviceapplication/homeserviceapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeserviceapplication/android/homeserviceapplication_android.iml" filepath="$PROJECT_DIR$/homeserviceapplication/android/homeserviceapplication_android.iml" />
+    </modules>
+  </component>
+</project>
